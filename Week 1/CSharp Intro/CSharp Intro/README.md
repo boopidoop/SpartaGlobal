@@ -10,9 +10,3 @@
     - HTML
 - snake_case
     - Mainly SQL
-
- ## Agile:
- - **Individuals & Interactions** over Processes & Tools
- - **Working Software** over Comprehensive Documentation
- - **Customer Collaboration** over Contract Negotiation
- - **Responding to Change** over Following a Plan
