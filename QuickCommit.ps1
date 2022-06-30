@@ -1,6 +1,6 @@
 echo "Comitting to Git"
-git --config user.name "boopidoop"
-git --config user.email "daniel.summerside@yahoo.com"
+git config --global user.name "boopidoop"
+git config --global user.email "daniel.summerside@yahoo.com"
 
 $Changelog = Read-Host -Prompt "Input Changelog Text"
 $Date = Get-Date
