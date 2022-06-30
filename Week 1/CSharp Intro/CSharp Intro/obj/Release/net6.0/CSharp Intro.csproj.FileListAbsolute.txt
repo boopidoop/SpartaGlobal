@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\bin\Release\net6.0\CSharp Intro.exe
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\bin\Release\net6.0\CSharp Intro.deps.json
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\bin\Release\net6.0\CSharp Intro.runtimeconfig.json
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\bin\Release\net6.0\CSharp Intro.dll
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\bin\Release\net6.0\CSharp Intro.pdb
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.dll
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\refint\CSharp Intro.dll
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.pdb
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\CSharp Intro.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\SpartaGlobal Work\Repositories\Week 1\CSharp Intro\CSharp Intro\obj\Release\net6.0\ref\CSharp Intro.dll
