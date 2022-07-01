@@ -3,7 +3,7 @@ git config --global user.name "boopidoop"
 git config --global user.email "daniel.summerside@yahoo.com"
 git add .
 
-git status >> status.txt
+git status > status.txt
 cat status
 
 echo "-----------------------"
