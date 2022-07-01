@@ -4,11 +4,6 @@ git config --global user.email "daniel.summerside@yahoo.com"
 git add .
 git commit -m "$Date : $Changelog"
 
+git status >> log.txt
 
-
-$Changelog = Read-Host -Prompt "Input Changelog Text"
-$Date = Get-Date
-
-
-git status
-git push
+git reset
