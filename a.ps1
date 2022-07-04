@@ -17,9 +17,8 @@ while($Inputted -ne $true){
         $Inputted = $true
         $Date = Get-Date
         $Changelog = Read-Host -Prompt "Please input  a changelog"
+        git commit -m "$Date : $Changelog" -a
         git reset status.txt
-        git commit -m "$Date : $Changelog"
-        git status
         git push
     }
     elseif ("n" -eq $Confirmation)
